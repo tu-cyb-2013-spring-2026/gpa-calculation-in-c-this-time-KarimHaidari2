@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/karimhaidari/gpa-calculation-in-c-this-time-KarimHaidari2/gpa_calculation'
+relocations:     []
+...
